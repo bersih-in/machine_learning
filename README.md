@@ -47,5 +47,5 @@ Validation Accuracy : 0.95
 
 #### Garbage Severity(Model 2)
 ```plaintext
-Train Accuracy: 0.91
-Validation Accuracy : 0.95
+Train Accuracy: 0.95
+Validation Accuracy : 0.91
